@@ -6,7 +6,7 @@
 * [Introduction](#Introduction)
 * [Model](#Model)
 *  [Results](#Results)
-*  [Training and Testing Video](# Training and Testing Video)
+*  [Video](#Video)
 * [Code](#Code)
 
 ## Introduction
@@ -45,7 +45,7 @@ Lets look at the graphs for a better understanding of the models.
 3. Training 
 ![Training](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/model_training.png)
 
-## Training and Testing Video
+## Video
 
 ### DDQN
 - [▶️ Training Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_train_DDQN.mp4)
