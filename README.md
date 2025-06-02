@@ -29,33 +29,39 @@ We use two Algorithms:
 Lets look at the graphs for a better understanding of the models.
 
 ### DQN
-1.  Reward Vs Episode 
+1.  Reward Vs Episode
+   <br>
 ![Reward Vs Episode](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Training_RewardvsEpisode_graph.png)
 
-2. Exploration graph 
+3. Exploration graph
+   <br>
 ![Exploration](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Exploration_graph.png)
-3. Training 
+5. Training 
 ![Training](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/model_Training.png)
 ### DDQN
 1. Reward Vs Episode
+ <br>
 ![Reward Vs Episode](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Train_RewardvsEpisode_graph.png)
 
-2. Accuracy and Loss Curve for SWIN Head only Fine-Tune  
+3. Exploration graph
+   <br> 
 ![Swin_head](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Exploration_graph.png)
-3. Training 
+<br>
+5. Training 
 ![Training](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/model_training.png)
 
 ## Video
 
 ### DDQN
-- [▶️ Training Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_train_DDQN.mp4)
-
+- [▶️ Training Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_train_DDQN.mp4) 
 <br>
+
 - [▶️ Testing Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_test_DDQN.mp4)
 
 ### DQN
 - [▶️ Training Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Mario_train_DQN.mp4)
 <br>
+
 - [▶️ Testing Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Mario_test_DQN.mp4)
 
 
