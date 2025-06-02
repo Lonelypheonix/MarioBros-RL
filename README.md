@@ -30,9 +30,8 @@ Lets look at the graphs for a better understanding of the models.
 
 ### DQN
 1.  Reward Vs Episode
-   <br>
-![RewardVsEpisode](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Training_RewardvsEpisode_graph.png)
-
+![graph](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Train_RewardvsEpisode_graph.png)
+<br>
 2. Exploration graph
    <br>
 ![Exploration](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Exploration_graph.png)
