@@ -34,7 +34,8 @@ Lets look at the graphs for a better understanding of the models.
 <br>
 2. Exploration graph
 ![Exploration](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Exploration_graph.png)
-   <br>
+<br>
+
 3. Training 
 ![Training](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/model_Training.png)
 ### DDQN
