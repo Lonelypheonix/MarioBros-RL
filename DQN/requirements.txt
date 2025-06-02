@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/cu124
+torch
+torchvision
+torchaudio
+gym==0.26.2
+gym-super-mario-bros==7.3.0
+nes-py==8.2.1
+numpy==1.26.1
+Pillow==10.1.0 
