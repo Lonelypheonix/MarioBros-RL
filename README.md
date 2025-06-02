@@ -33,7 +33,7 @@ Lets look at the graphs for a better understanding of the models.
    <br>
 ![RewardVsEpisode](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Training_RewardvsEpisode_graph.png)
 
-3. Exploration graph
+2. Exploration graph
    <br>
 ![Exploration](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Exploration_graph.png)
 5. Training 
