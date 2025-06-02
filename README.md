@@ -48,19 +48,17 @@ Lets look at the graphs for a better understanding of the models.
 ## Training and Testing Video
 
 ### DDQN
-- [▶️ Play Training Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_train_DDQN.mp4)
+- [▶️ Training Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_train_DDQN.mp4)
 
 <br>
-Testing
-
-Testing
-https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_test_DDQN.mp4
+- [▶️ Testing Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DDQN/Results/Mario_test_DDQN.mp4)
 
 ### DQN
-Training 
-https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Mario_train_DQN.mp4
-Testing
-https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Mario_test_DQN.mp4
+- [▶️ Training Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Mario_train_DQN.mp4)
+<br>
+- [▶️ Testing Video](https://github.com/Lonelypheonix/MarioBros-RL/blob/main/DQN/Results/Mario_test_DQN.mp4)
+
+
 
 ## Code 
 You can check the respective folders for the code
